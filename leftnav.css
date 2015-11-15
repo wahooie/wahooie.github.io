@@ -1,0 +1,66 @@
+ html {
+      height: 100%;
+
+    }
+    body {
+       height: 100%;
+       background-color: #E89210;
+       font-family: georgia;
+    }
+
+    header {
+        background-color: #E83806;
+        font-family: Georgia;
+        font-style: oblique;
+        color: white;
+        padding: 2px;
+        text-align: center;
+        font-size: 50px;
+        width: 100%;
+        display: block;
+        height: 300px;
+    }
+    nav {
+        background-color: #FFD845;
+        font-family: Georgia;
+        width: 280px;
+        height: 100%;
+        display: inline-block;
+        vertical-align: top;
+        padding: 20px;
+        font-weight: ;
+    }
+    nav ul {
+        line-height: 40px;
+        list-style-type: none;
+    }
+    a {
+        font-family: Georgia;
+        color;
+        font-size: 18px;
+    }
+    section {
+        width: 900px;
+        display: inline-block;
+        background-color: #E89210;
+        color: black;
+        vertical-align: top;
+        padding: 20px;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
